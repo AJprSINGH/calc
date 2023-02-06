@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+body{
+  background-color: rgb(169, 115, 115);
+  color: #fff;
+  font-size: 16px;
+  line-height: 1.5;
+}
+h1{
+  text-align: center;
+  color: rgb(35, 34, 34);
+  font-size: 36px;
+  font-weight: 400;
+  margin: 20px 0;
+}
+h4{
+  text-align: center;
+  color: rgb(27, 26, 26);
+  font-size: 24px;
+  font-weight: 400;
+  margin: 20px 0;
+}
